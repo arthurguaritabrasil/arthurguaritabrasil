@@ -6,7 +6,7 @@
 
 💻 Atualmente estou cursando Ciência da computação
 
-📚 Estou aprendendo um pouco mais sobre estrutura de dados e C#
+📚 Estou aprendendo um pouco mais sobre estrutura de dados
 
 💬 Me pergunte sobre desenvolvimento web, matemática, banco de dados ou qualquer problema relacionado a lógica! 
 
