@@ -18,7 +18,7 @@
 
 ### Linguagens de programação
 
-[![Programming](https://skillicons.dev/icons?i=js,html,css,go,cpp,py)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=js,go,cpp,py)](https://skillicons.dev)
 
 ### Banco de dados
 
