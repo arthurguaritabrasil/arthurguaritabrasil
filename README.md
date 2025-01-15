@@ -6,7 +6,7 @@
 
 💻 Atualmente estou cursando Ciência da computação
 
-📚 Estou aprendendo um pouco mais sobre estrutura de dados
+📚 Estou aprendendo um pouco mais sobre estrutura de dados e inteligência artificial
 
 💬 Me pergunte sobre desenvolvimento web, matemática, banco de dados ou qualquer problema relacionado a lógica! 
 
@@ -18,19 +18,19 @@
 
 ### Linguagens de programação
 
-[![Programming](https://skillicons.dev/icons?i=js,go,cpp,py)](https://skillicons.dev)
+[![Programming](https://skillicons.dev/icons?i=js,go,cpp,py,cs)](https://skillicons.dev)
 
 ### Banco de dados
 
-[![Database](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev)
 
 ### Ferramentas e tecnologias
 
-[![Tools](https://skillicons.dev/icons?i=postman,vscode,visualstudio,figma,git,blender)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postman,vscode,visualstudio,figma,git,blender,nodejs)](https://skillicons.dev)
 
 ### Frameworks e bibliotecas
 
-[![Tools](https://skillicons.dev/icons?i=nodejs,vue)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
 
 ### Soft Skills
 
