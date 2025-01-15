@@ -40,6 +40,4 @@
 
 ## Estatísticas GitHub
 
-![Arthur's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthurguaritabrasil&theme=github_dark&hide_border=true)
-
 ![Arthur's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguaritabrasil&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
